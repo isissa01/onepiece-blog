@@ -1,0 +1,28 @@
+
+.article{
+    /* width: 45%; */
+    flex: 45%;
+    padding: 10px;
+    justify-content: space-between;
+}
+.card{
+    box-shadow: 0 0 20px 5px #888;
+    border-radius: 5px;
+    flex: 45%;
+    padding: 20px;
+}
+.card img{
+    /* max-width: 500px; */
+}
+.card-title{
+    font-size: 1.1em;
+    text-align: center;
+    /* width: 70%; */
+    margin: auto;;
+}
+
+@media(min-width: 1100px){
+    .card{
+        flex: 40%;
+    }
+}

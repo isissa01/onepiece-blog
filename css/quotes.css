@@ -1,0 +1,12 @@
+blockquote{
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1.3em;
+    padding: 10px;
+}
+.citation{
+    text-align: center;
+    margin-top: -22px;
+    font-size: 0.8em;
+}

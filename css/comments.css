@@ -1,0 +1,35 @@
+.comment-text{
+    flex: 60%;
+    font-style: italic;
+    line-height: 1.3em;
+    color: #646363;
+}
+
+.comment{
+    background-color: #f6f6f6;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: end;
+    padding: 0 40px;
+  
+}
+button{
+    cursor: pointer;
+    background-color: transparent;
+}
+.dislike{
+    /* width: 60px; */
+    /* height: 60px; */
+    
+    /* color: red; */
+}
+.btn{
+    font-size: 1.5em;
+
+}

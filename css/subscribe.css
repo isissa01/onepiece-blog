@@ -1,0 +1,10 @@
+.subscribe-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #000f30;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    color: white
+}
